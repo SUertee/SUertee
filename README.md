@@ -21,7 +21,7 @@ React · Electron · TypeScript | Development preview
 
 **Champion, Intelligent Security Track · Anker Inaugural Hackathon · 2026**
 
-In my first hackathon, I captained a four-person team and contributed project management, backend development, and cross-module integration. Our project, **[ParTrace Vision](https://github.com/SUertee/partrace-vision)**, is an AI event-tracing assistant for parcel-station operators, combining footage, visual analysis, and natural-language queries.
+In my first hackathon, I led a four-person team, handling project management, backend development, and cross-module integration. Our project, **[ParTrace Vision](https://github.com/SUertee/partrace-vision)**, is an AI event-tracing assistant for parcel-station operators, combining footage, visual analysis, and natural-language queries.
 
 <details>
 <summary>View award certificate</summary>
