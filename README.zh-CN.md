@@ -1,6 +1,6 @@
 [English](README.md)
 
-# 你好，我是 Harry Xu · 徐嘉成
+# 你好 👋，我是 Jiacheng Xu · 徐嘉成
 
 **独立开发者 · AI 应用与桌面工具 · 欢迎项目合作**
 

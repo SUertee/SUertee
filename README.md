@@ -1,6 +1,6 @@
 [中文](README.zh-CN.md)
 
-# Hi, I'm Harry Xu · 徐嘉成
+# Hi 👋, I'm Jiacheng Xu · 徐嘉成
 
 **Independent developer · AI apps & desktop tools · Open to collaboration**
 
@@ -26,7 +26,7 @@ In my first hackathon, I captained a four-person team and contributed project ma
 <details>
 <summary>View award certificate</summary>
 
-<img src="assets/anker-intelligent-security-champion.png" alt="Harry Xu / 徐嘉成 — Anker Inaugural Hackathon, Intelligent Security Track Champion certificate" width="600">
+<img src="assets/anker-intelligent-security-champion.png" alt="Jiacheng Xu / 徐嘉成 — Anker Inaugural Hackathon, Intelligent Security Track Champion certificate" width="600">
 
 </details>
 
