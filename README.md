@@ -1,6 +1,6 @@
 [中文](README.zh-CN.md)
 
-# Hi 👋, I'm Jiacheng Xu · 徐嘉成
+# Hi 👋, I'm Jiacheng Xu
 
 **Independent developer · AI apps & desktop tools · Open to collaboration**
 
