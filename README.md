@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Jiacheng Xu
 
-**Independent developer · AI apps & desktop tools · Open to collaboration**
+**Independent developer building AI tools for everyday work.**
 
 I turn concrete problems into usable tools, building from Agent applications toward underlying systems and visual intelligence.
 
