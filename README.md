@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Jiacheng Xu
 
-**Independent developer building AI tools for everyday work.**
+**University of Sydney Student · AI Application Developer · Agents & Computer Vision**
 
 I turn concrete problems into usable tools, building from Agent applications toward underlying systems and visual intelligence.
 
