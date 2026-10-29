@@ -30,8 +30,9 @@ In my first hackathon, I led a four-person team, handling project management, ba
 
 </details>
 
-## Collaborate
+## Connect
 
-Interested in AI tools, Agent workflows, and small product collaborations. I can contribute scoping, backend / API development, full-stack prototypes, and project coordination.
-
-[Email](mailto:suerte.668@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jiacheng-xu-12316424b/)
+<p>
+  <a href="https://www.linkedin.com/in/jiacheng-xu-12316424b/" aria-label="LinkedIn"><img src="assets/linkedin.svg" alt="LinkedIn" width="36" height="36"></a>&nbsp;&nbsp;
+  <a href="mailto:suerte.668@gmail.com" aria-label="Email"><img src="assets/email.svg" alt="Email" width="36" height="36"></a>
+</p>

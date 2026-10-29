@@ -30,8 +30,9 @@ React · Electron · TypeScript｜开发预览版
 
 </details>
 
-## 合作与联系
+## 联系我
 
-欢迎交流 AI 工具、Agent 工作流与小型产品共创。我可以参与需求拆解、后端 / API 开发、全栈原型与项目推进。
-
-[邮箱](mailto:suerte.668@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jiacheng-xu-12316424b/)
+<p>
+  <a href="https://www.linkedin.com/in/jiacheng-xu-12316424b/" aria-label="LinkedIn"><img src="assets/linkedin.svg" alt="LinkedIn" width="36" height="36"></a>&nbsp;&nbsp;
+  <a href="mailto:suerte.668@gmail.com" aria-label="Email"><img src="assets/email.svg" alt="Email" width="36" height="36"></a>
+</p>
