@@ -1,32 +1,37 @@
-# Hi 👋, I'm Harry Xu
+[中文](README.zh-CN.md)
 
-### A passionate AI developer
+# Hi, I'm Harry Xu · 徐嘉成
 
-- 🔭 I'm currently studying at **University of Sydney as a final year student**
+**Independent developer · AI apps & desktop tools · Open to collaboration**
 
-- 🌱 I'm currently learning **Software Development + AI + Cloud**
+I turn concrete problems into usable tools, building from Agent applications toward underlying systems and visual intelligence.
 
-- 👯 I'm looking to collaborate on **individual projects and working placements**
+## Learning path
 
-- 🤝 I'm looking for help with **learning with cloud services**
+**AI Agent → AI Infra → Computer Vision → World Models**
 
-- 💬 Ask me about **React, Node.js and software development**
+Starting with Agent applications and tool integration, I aim to deepen my understanding of model serving, inference, and deployment, then explore visual perception. World Models are a longer-term interest. My current project work centers on Agent integration and backend engineering.
 
-- 📫 How to reach me **suerte.668@gmail.com**
+## Currently building
 
-- 👨‍💻 All of my projects are available at **[https://suertee.github.io/](https://suertee.github.io/)**
+**[ScreenDeck](https://github.com/SUertee/screen-deck)** — A local, task-centered AI workspace connecting Codex / OpenCode with planning, execution, human review, and knowledge reuse.  
+React · Electron · TypeScript | Development preview
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1riIU2vy_SJinjVB7CKIFGnCJWTcZ4PAH/view?usp=sharing](https://drive.google.com/file/d/1riIU2vy_SJinjVB7CKIFGnCJWTcZ4PAH/view?usp=sharing)**
+## 🏆 Achievements
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/SUertee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SUertee" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jiacheng-xu-12316424b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jiacheng-xu-12316424b/" height="30" width="40" /></a>
-<a href="https://leetcode.com/https://leetcode.com/u/Suerte_SHAN/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Suerte_SHAN/" height="30" width="40" /></a>
-</p>
+**Champion, Intelligent Security Track · Anker Inaugural Hackathon · 2026**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jenkins" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuepress" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuepress" width="40" height="40"/> </a></p>
+In my first hackathon, I captained a four-person team and contributed project management, backend development, and cross-module integration. Our project, **[ParTrace Vision](https://github.com/SUertee/partrace-vision)**, is an AI event-tracing assistant for parcel-station operators, combining footage, visual analysis, and natural-language queries.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SUertee&" alt="SUertee" /></p>
+<details>
+<summary>View award certificate</summary>
 
+<img src="assets/anker-intelligent-security-champion.png" alt="Harry Xu / 徐嘉成 — Anker Inaugural Hackathon, Intelligent Security Track Champion certificate" width="600">
+
+</details>
+
+## Collaborate
+
+Interested in AI tools, Agent workflows, and small product collaborations. I can contribute scoping, backend / API development, full-stack prototypes, and project coordination.
+
+[Email](mailto:suerte.668@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jiacheng-xu-12316424b/)
